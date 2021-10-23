@@ -1,22 +1,22 @@
-codigo_pro;nom_proyec;nom_abrev;programa;presupuesto;nom_donant;mar_genero;num_comuni;num_person
-pnud_cr_18;Atlas de Desarrollo Humano Cantonal;Atlas IDH;Desarrollo Humano y Gobernabilidad Democratica;0;Programa de Naciones Unidas para el Desarrollo (PNUD);GEN2;0;5075000
-pnud_cr_14;BIOFIN - Iniciativa Finanzas para la Biodiversidad;BIOFIN;Naturaleza, Clima y Energia;2322000;Federal Ministry for the Environment,Nature Conservation and Nuclear Safety of Germany, European Union,Norwegian Ministry of Foreign Affairs,Flanders State of the Art,Swiss Confederation;GEN2;0;0
-pnud_cr_19;Construyendo una ruta comun al 2030;Hacia una ruta común 2030;Desarrollo Humano y Gobernabilidad Democratica;138000;Programa de Naciones Unidas para el Desarrollo (PNUD);GEN2;0;5075000
-pnud_cr_02;Costas Circulares;Costas circulares;Naturaleza, Clima y Energia;173195;CRUSA;GEN3;0;120
-pnud_cr_13;Cuarta Comunicacion Nacional y Segundo Reporte Bienal de Actualizacion;Cuarta Comunicación Nacional;Naturaleza, Clima y Energia;852000;Global Environment Fund Truste;GEN1;0;5075000
-pnud_cr_11;Eliminacion sostenible y respetuosa con el clima de las sustancias que agotan el ozono (SPODS);SPODS;Naturaleza, Clima y Energia;326513;Union Europea;GEN1;0;5075000
-pnud_cr_09;Estrategia Nacional de Distritos de Frio en Costa Rica para Mejorar la Eficiencia Energitica y Reducir las Emisiones de Efecto Invernadero (DFCR);DFCR;Naturaleza, Clima y Energia;509140;Kigali Cooling Efficiency Fund (K-CEF);GEN0;2;0
-pnud_cr_01;Estrategia Nacional para la sustitucio de plasticos de un solo uso;Plásticos de Un Solo Uso;Naturaleza, Clima y Energia;500000;CRUSA;GEN1;0;5075000
-pnud_cr_15;Fortalecimiento Institucional de la Oficina Tecnica del Ozono;Oficina Técnica del Ozono;Naturaleza, Clima y Energia;195000;Comision Gubernamental de Ozono;GEN1;0;5075000
-pnud_cr_21;Gran Ecosistema Marino Costero del Pac?¡fico Centroamericano (PACA).;PACA;Naturaleza, Clima y Energia;7147209;Fondo Mundial para el Ambiente (GEF);GEN2;0;4000
-pnud_cr_12;Infosegura;Infosegura;Desarrollo Humano y Gobernabilidad Democratica;199000;USAID;GEN2;0;5075000
-pnud_cr_16;NDC Support Programme;NDC Support Programme;Naturaleza, Clima y Energia;1515602;PNUD;GEN2;0;5075000
-pnud_cr_17;Pagos basados en Resultados (REDD+);Pagos basados en Resultados (REDD+);Naturaleza, Clima y Energia;54000000;Fondo Verde para el Clima (FVC);GEN2;0;0
-pnud_cr_04;Paisajes Productivos;Paisajes Productivos;Naturaleza, Clima y Energia;6520155;GEF;GEN2;50;10000
-pnud_cr_10;Plan de Eliminacio de HCFC en Costa Rica;HCFC ;Naturaleza, Clima y Energia;11153523;Comision Gubernamental de Ozono;GEN1;0;5075000
-pnud_cr_07;Programa Conjunto Fortalecimiento Estrategia Puente al Desarrollo;Programa Conjunto ;Desarrollo Humano y Gobernabilidad Democratica;310281;Coordinacion de la Oficina de la Coordinacion Residente;GEN3;3;225
-pnud_cr_06;Programa de Pequeñas Donaciones;PPD;Naturaleza, Clima y Energia;1061000;GEF;GEN2;80;2700
-pnud_cr_03;Proyecto ASADAS;ASADAS;Naturaleza, Clima y Energia;5000000;GEF;GEN2;200;150000
-pnud_cr_20;Proyecto Gestion Integrada de Recurso H?¡drico de la Cuenca Binacional del Rio Sixaola;Cuenca Binacional del Rio Sixaola;Naturaleza, Clima y Energia;4386210;Fondo Mundial para el Ambiente (GEF);GEN2;0;485172
-pnud_cr_08;Sistema de Registros Administrativos de Gestion Cultural;Registros Cultural;Desarrollo Humano y Gobernabilidad Democratica;15936000;Gobierno de Costa Rica;GEN2;0;5075000
-pnud_cr_05;Transicion hacia una economia verde urbana y beneficios ambientales globales;GEF 7;Naturaleza, Clima y Energia;10000000;GEF;GEN2;0;2134932
+"codigo_pro","nom_proyec","nom_abrev","programa","presupuesto","nom_donant","mar_genero","num_comuni","num_person"
+"pnud_cr_18","Atlas de Desarrollo Humano Cantonal","Atlas IDH","Desarrollo Humano y Gobernabilidad Democratica",0,"Programa de Naciones Unidas para el Desarrollo (PNUD)","GEN2",0,5075000
+"pnud_cr_14","BIOFIN - Iniciativa Finanzas para la Biodiversidad","BIOFIN","Naturaleza, Clima y Energia",2322000,"Federal Ministry for the Environment,Nature Conservation and Nuclear Safety of Germany, European Union,Norwegian Ministry of Foreign Affairs,Flanders State of the Art,Swiss Confederation","GEN2",0,0
+"pnud_cr_19","Construyendo una ruta comun al 2030","Hacia una ruta comÃºn 2030","Desarrollo Humano y Gobernabilidad Democratica",138000,"Programa de Naciones Unidas para el Desarrollo (PNUD)","GEN2",0,5075000
+"pnud_cr_02","Costas Circulares","Costas circulares","Naturaleza, Clima y Energia",173195,"CRUSA","GEN3",0,120
+"pnud_cr_13","Cuarta Comunicacion Nacional y Segundo Reporte Bienal de Actualizacion","Cuarta ComunicaciÃ³n Nacional","Naturaleza, Clima y Energia",852000,"Global Environment Fund Truste","GEN1",0,5075000
+"pnud_cr_11","Eliminacion sostenible y respetuosa con el clima de las sustancias que agotan el ozono (SPODS)","SPODS","Naturaleza, Clima y Energia",326513,"Union Europea","GEN1",0,5075000
+"pnud_cr_09","Estrategia Nacional de Distritos de Frio en Costa Rica para Mejorar la Eficiencia Energitica y Reducir las Emisiones de Efecto Invernadero (DFCR)","DFCR","Naturaleza, Clima y Energia",509140,"Kigali Cooling Efficiency Fund (K-CEF)","GEN0",2,0
+"pnud_cr_01","Estrategia Nacional para la sustitucio de plasticos de un solo uso","PlÃ¡sticos de Un Solo Uso","Naturaleza, Clima y Energia",500000,"CRUSA","GEN1",0,5075000
+"pnud_cr_15","Fortalecimiento Institucional de la Oficina Tecnica del Ozono","Oficina TÃ©cnica del Ozono","Naturaleza, Clima y Energia",195000,"Comision Gubernamental de Ozono","GEN1",0,5075000
+"pnud_cr_21","Gran Ecosistema Marino Costero del Pac?Â¡fico Centroamericano (PACA).","PACA","Naturaleza, Clima y Energia",7147209,"Fondo Mundial para el Ambiente (GEF)","GEN2",0,4000
+"pnud_cr_12","Infosegura","Infosegura","Desarrollo Humano y Gobernabilidad Democratica",199000,"USAID","GEN2",0,5075000
+"pnud_cr_16","NDC Support Programme","NDC Support Programme","Naturaleza, Clima y Energia",1515602,"PNUD","GEN2",0,5075000
+"pnud_cr_17","Pagos basados en Resultados (REDD+)","Pagos basados en Resultados (REDD+)","Naturaleza, Clima y Energia",54000000,"Fondo Verde para el Clima (FVC)","GEN2",0,0
+"pnud_cr_04","Paisajes Productivos","Paisajes Productivos","Naturaleza, Clima y Energia",6520155,"GEF","GEN2",50,10000
+"pnud_cr_10","Plan de Eliminacio de HCFC en Costa Rica","HCFC ","Naturaleza, Clima y Energia",11153523,"Comision Gubernamental de Ozono","GEN1",0,5075000
+"pnud_cr_07","Programa Conjunto Fortalecimiento Estrategia Puente al Desarrollo","Programa Conjunto ","Desarrollo Humano y Gobernabilidad Democratica",310281,"Coordinacion de la Oficina de la Coordinacion Residente","GEN3",3,225
+"pnud_cr_06","Programa de PequeÃ±as Donaciones","PPD","Naturaleza, Clima y Energia",1061000,"GEF","GEN2",80,2700
+"pnud_cr_03","Proyecto ASADAS","ASADAS","Naturaleza, Clima y Energia",5000000,"GEF","GEN2",200,150000
+"pnud_cr_20","Proyecto Gestion Integrada de Recurso H?Â¡drico de la Cuenca Binacional del Rio Sixaola","Cuenca Binacional del Rio Sixaola","Naturaleza, Clima y Energia",4386210,"Fondo Mundial para el Ambiente (GEF)","GEN2",0,485172
+"pnud_cr_08","Sistema de Registros Administrativos de Gestion Cultural","Registros Cultural","Desarrollo Humano y Gobernabilidad Democratica",15936000,"Gobierno de Costa Rica","GEN2",0,5075000
+"pnud_cr_05","Transicion hacia una economia verde urbana y beneficios ambientales globales","GEF 7","Naturaleza, Clima y Energia",10000000,"GEF","GEN2",0,2134932
